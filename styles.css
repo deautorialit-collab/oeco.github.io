@@ -478,7 +478,7 @@
         
         /* Final CTA */
         .final-cta {
-            background: linear-gradient(45deg, #8b0505, #000000);
+            background: transparent;
             text-align: center;
             padding: 6rem 2rem;
         }
