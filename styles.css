@@ -70,7 +70,7 @@
             justify-content: center;
             text-align: center;
             padding: 2rem;
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a0a0a 100%);
+            background: transparent;
         }
         
         .header h1 {
