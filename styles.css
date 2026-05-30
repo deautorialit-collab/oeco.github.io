@@ -243,7 +243,27 @@
             transform: scale(1.2);
             text-shadow: 0 0 20px rgba(255, 0, 64, 0.5);
         }
-        
+        /* Configuração para o bloco que receberá a imagem */
+.character-shape {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+}
+
+/* Imagem de fundo */
+.bg-axl {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('caminho/da-sua-imagem-axl.jpg');
+}
+
+.bg-kolt {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('caminho/da-sua-imagem-kolt.jpg');
+}
+
+.bg-nico {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('caminho/da-sua-imagem-kolt.jpg');
+}
         .character-info {
             opacity: 0;
             transform: translateY(20px);
