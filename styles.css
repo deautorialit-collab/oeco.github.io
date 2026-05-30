@@ -254,15 +254,15 @@
 
 /* Imagem de fundo */
 .bg-axl {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('caminho/da-sua-imagem-axl.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.imgur.com/DwrMs7p.png');
 }
 
 .bg-kolt {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('caminho/da-sua-imagem-kolt.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.imgur.com/Eqv7tPI.png');
 }
 
 .bg-nico {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('caminho/da-sua-imagem-kolt.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.imgur.com/Eqv7tPI.png');
 }
         .character-info {
             opacity: 0;
